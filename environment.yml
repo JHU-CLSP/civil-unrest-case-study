@@ -1,0 +1,26 @@
+name: minerva-proj
+channels:
+    - conda-forge
+    - anaconda
+    - pytorch
+dependencies:
+    - python=3.8
+    - pandas
+    - numpy
+    - scikit-learn
+    - nltk
+    - regex
+    - pip
+    - pytorch
+    - torchvision
+    - torchaudio
+    - cudatoolkit=10.2
+    - pip:
+        - jsonlines
+        - langid
+        - mosestokenizer
+        - transformers
+        - fairseq
+        - git+git://github.com/AADeLucia/littlebird.git#egg=littlebird
+        - fastBPE
+        - iso3166
