@@ -5,7 +5,7 @@ Code from "Study of Manifestation of Civil Unrest on Twitter" [W-NUT @ EMNLP 202
 ## Data
 
 ### Global Civil Unrest on Twitter
-The case studies and civil unrest models were trained on a new dataset introduced in the paper, **Global Civil Unrest on Twitter (G-CUT)**. The dataset will be hosted by the date of the workshop (November 2021).
+The case studies and civil unrest models were trained on a new dataset introduced in the paper, **Global Civil Unrest on Twitter (G-CUT)**. The dataset is available for download [here](https://zenodo.org/record/5816218).
 
 As per Twitter TOS, we do not supply the full tweet. We include:
 * Tweet ID
